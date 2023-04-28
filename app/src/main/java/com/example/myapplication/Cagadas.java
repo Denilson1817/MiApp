@@ -34,7 +34,7 @@ public class Cagadas {
     public void setHola(String hola) {
         this.hola = hola;
     }
-    //que poco madre con estas mamasñsjkfhf
+    //que poco madre con estas mamadas
     //kddkldkdkdkkgkgflkfglffmfgñfgf,g-fgñlfflg
     /*sekfkfkgkgkgklkgglkglkgkkg
     klgkgkgkhkhkkhkhkhkkhlkhlklhkh
