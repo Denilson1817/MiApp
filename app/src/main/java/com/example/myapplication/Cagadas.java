@@ -18,7 +18,7 @@ public class Cagadas {
         return dia;
     }
 
-    //Esto es una prueba 
+    //Esto es una prueba
 
     public void setDia(Integer dia) {
         this.dia = dia;
