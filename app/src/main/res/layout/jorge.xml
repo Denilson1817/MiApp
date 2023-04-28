@@ -12,6 +12,8 @@
         tools:layout_editor_absoluteX="158dp"
         tools:layout_editor_absoluteY="45dp" />
 
+    //Esto es una prueba de XML JORCH 
+
     <TextView
         android:id="@+id/textView6"
         android:layout_width="wrap_content"

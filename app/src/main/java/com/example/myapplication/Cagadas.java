@@ -2,7 +2,7 @@ package com.example.myapplication;
 
 public class Cagadas {
 
-    Integer Dias; 
+    Integer Dias;
     Integer dia;
     String PruebaJorch="";
     String Prueba2="";
