@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "594580860296",
+    "firebase_url": "https://pelisapp-78a38-default-rtdb.firebaseio.com",
+    "project_id": "pelisapp-78a38",
+    "storage_bucket": "pelisapp-78a38.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:594580860296:android:3c386cc05ce573620d1e3d",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "594580860296-3bu0ea0hio0lidu73rspv22tjhimjjis.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuraRjssaSVmxiWqw0LLQeYGCkdlv8QEY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "594580860296-3bu0ea0hio0lidu73rspv22tjhimjjis.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
