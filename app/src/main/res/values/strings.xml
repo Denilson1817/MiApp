@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">My Application</string>
+    <string-array name="generosp">
+        <item>Acción</item>
+        <item>Terror</item>
+        <item>Comedia</item>
+        <item>Romance</item>
+        <item>Ciencia Ficción</item>
+    </string-array>
 </resources>
