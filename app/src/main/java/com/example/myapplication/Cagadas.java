@@ -1,11 +1,12 @@
 package com.example.myapplication;
 
 public class Cagadas {
-    String Denilson="";
     Integer dia;
     String PruebaJorch="";
     String Prueba2="";
-    String hola="cagada javi";
+    String Denilson="";
+    String Denilson="";
+
     public String getDenilson() {
         return Denilson;
     }
@@ -19,6 +20,8 @@ public class Cagadas {
     }
 
     //Esto es una prueba
+
+    String hola="cagada javi";
 
     public void setDia(Integer dia) {
         this.dia = dia;
