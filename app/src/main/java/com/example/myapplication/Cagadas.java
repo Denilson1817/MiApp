@@ -40,6 +40,11 @@ public class Cagadas {
     klgkgkgkhkhkkhkhkhkkhlkhlklhkh
     klklgkgkgkgkgkgkhklhkhkh
     fklgkgkgkgkgkgkgkg
+<<<<<<< HEAD
     jdjdjdjdjfjfjjfjjdjdj
+=======
+    Esto sigue siendo un comentario Jorch
+>>>>>>> f5806d7686d5b979c4c1f655fa371bd52e82b97d
+ya me castre de esta mamada
      */
 }
