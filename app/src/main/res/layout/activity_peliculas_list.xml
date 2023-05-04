@@ -18,11 +18,12 @@
         tools:ignore="MissingConstraints" />
 
     <ListView
-        android:id="@+id/listv_peliculas"
+        android:id="@+id/listaPeliculas"
         android:layout_width="318dp"
         android:layout_height="300dp"
         app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/textView5"
-        tools:ignore="MissingConstraints"
-        tools:layout_editor_absoluteX="1dp" />
+        tools:ignore="MissingConstraints" />
 </androidx.constraintlayout.widget.ConstraintLayout>

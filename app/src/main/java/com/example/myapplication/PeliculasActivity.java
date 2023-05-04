@@ -7,12 +7,14 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
 import android.widget.Spinner;
+import android.widget.Toast;
 
 import com.google.firebase.database.DatabaseReference;
 import com.google.firebase.database.FirebaseDatabase;
 
 public class PeliculasActivity extends AppCompatActivity {
     Button btnGuardarPeliculas;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -37,6 +39,7 @@ public class PeliculasActivity extends AppCompatActivity {
                 //agregar una pelicula utilizando el metodo push paraa genrar una clave unica
                 DatabaseReference nuevaPelicula = miDRef.push();
                 nuevaPelicula.setValue(pelicula);
+                Toast.makeText(PeliculasActivity.this, "Pelicula " + titulo +" Guardada", Toast.LENGTH_SHORT).show();
             }
         });
     }
