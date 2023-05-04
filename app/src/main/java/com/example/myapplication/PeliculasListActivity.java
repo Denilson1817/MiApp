@@ -30,9 +30,9 @@ public class PeliculasListActivity extends AppCompatActivity {
         setContentView(R.layout.activity_peliculas_list);
         peliculas = FirebaseDatabase.getInstance().getReference("peliculas");
         lvDatosPeliculas = findViewById(R.id.listaPeliculas);
+        //Metodos para firebase
         inicializarFirebase();
         listarDatos();
-
     }
     private void inicializarFirebase() {
         FirebaseApp.initializeApp(this);
